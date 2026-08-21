@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cybersecurity Skills Framework — Progress Dossier</title>
+<meta name="description" content="Personal progress tracker for the Linux Foundation / OpenSSF Global Cybersecurity Skills Framework.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <span class="eyebrow">FIELD PROGRESS DOSSIER</span>
+      <span class="eyebrow eyebrow-right" id="last-updated">—</span>
+    </div>
+    <h1>Cybersecurity Skills Framework</h1>
+    <p class="subtitle">Personal tracking log against the OpenSSF / Linux Foundation Global Cybersecurity Skills Framework — IT Project Management, CyberSecurity Operations, and Security Administrator, across three proficiency tiers.</p>
+  </div>
+</header>
+
+<section class="overview">
+  <div class="overview-inner">
+    <div class="stamp" id="stamp">
+      <svg viewBox="0 0 200 200" class="stamp-ring" id="stamp-ring">
+        <circle cx="100" cy="100" r="88" class="stamp-ring-bg"/>
+        <circle cx="100" cy="100" r="88" class="stamp-ring-fg" id="stamp-ring-fg"/>
+      </svg>
+      <div class="stamp-text">
+        <span class="stamp-pct" id="stamp-pct">0%</span>
+        <span class="stamp-label">CLEARED</span>
+      </div>
+    </div>
+
+    <div class="overview-stats">
+      <div class="stat-row">
+        <div class="stat-block">
+          <span class="stat-num" id="stat-complete">0</span>
+          <span class="stat-label">Complete</span>
+        </div>
+        <div class="stat-block">
+          <span class="stat-num" id="stat-progress">0</span>
+          <span class="stat-label">In progress</span>
+        </div>
+        <div class="stat-block">
+          <span class="stat-num" id="stat-total">0</span>
+          <span class="stat-label">Total skills</span>
+        </div>
+      </div>
+      <div class="tier-legend">
+        <div class="tier-bar" id="tier-bar"></div>
+        <div class="tier-keys">
+          <span class="tier-key"><i class="dot dot-basic"></i>Foundational</span>
+          <span class="tier-key"><i class="dot dot-intermediate"></i>Intermediate</span>
+          <span class="tier-key"><i class="dot dot-advanced"></i>Advanced</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="controls">
+  <div class="controls-inner">
+    <input type="search" id="search" class="search-input" placeholder="Search skills…">
+    <div class="filter-group" id="tier-filter">
+      <button class="filter-chip active" data-tier="all">All tiers</button>
+      <button class="filter-chip" data-tier="basic">Foundational</button>
+      <button class="filter-chip" data-tier="intermediate">Intermediate</button>
+      <button class="filter-chip" data-tier="advanced">Advanced</button>
+    </div>
+    <div class="filter-group" id="status-filter">
+      <button class="filter-chip active" data-status="all">All statuses</button>
+      <button class="filter-chip" data-status="complete">Complete</button>
+      <button class="filter-chip" data-status="in-progress">In progress</button>
+      <button class="filter-chip" data-status="not-started">Not started</button>
+    </div>
+  </div>
+</section>
+
+<main id="families"></main>
+
+<footer class="site-footer">
+  <p>Source framework: <a href="https://cybersecurityframework.io/" target="_blank" rel="noopener">OpenSSF / Linux Foundation Global Cybersecurity Skills Framework</a>. Progress data lives in <code>data.json</code> in this repository.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

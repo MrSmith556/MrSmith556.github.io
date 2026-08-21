@@ -1,0 +1,367 @@
+[
+  {
+    "family": "IT Project Management",
+    "skills": [
+      {
+        "id": "B1",
+        "tier": "basic",
+        "description": "Understand the basics of security requirements and fundamental risk management principles.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B7",
+        "tier": "basic",
+        "description": "Follow organizational security guidelines and policies, incorporating them into the development process.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B28",
+        "tier": "basic",
+        "description": "Develop soft skills for presenting updates to senior leaders, and collaborate with cybersecurity specialists to ensure security best practices are integrated into project plans.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B29",
+        "tier": "basic",
+        "description": "Participate in hiring developers with a focus on cybersecurity awareness, and support continuous training efforts to improve the team's understanding of cybersecurity standards and practices.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B3",
+        "tier": "intermediate",
+        "description": "Understand the OWASP Top 10 and CWE Top 25, applying basic best practices.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I10",
+        "tier": "intermediate",
+        "description": "Perform security audits and assessments based on job function and role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I26",
+        "tier": "intermediate",
+        "description": "Embed security practices within the DevOps culture, ensuring security checks are automated and integrated into the CI/CD pipelines to maintain continuous security compliance.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I27",
+        "tier": "intermediate",
+        "description": "Ensure continuous cybersecurity training of project members.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A1",
+        "tier": "advanced",
+        "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A4",
+        "tier": "advanced",
+        "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A5",
+        "tier": "advanced",
+        "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A15",
+        "tier": "advanced",
+        "description": "Design and implement disaster recovery (DR) plans tailored to specific database systems (e.g., SQL, NoSQL, cloud-based solutions), and continuously improve DR strategies based on lessons learned from tests and incidents.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A16",
+        "tier": "advanced",
+        "description": "Perform coordinated disclosure with external organizations (e.g., CERTs, government, suppliers) to ensure compliance and address security vulnerabilities promptly.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A17",
+        "tier": "advanced",
+        "description": "Oversee the renewal and management of SSL certificates and plan for software version updates across key infrastructure (e.g., Kubernetes, databases), ensuring systems remain secure and up-to-date.",
+        "status": "not-started",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "family": "CyberSecurity Operations",
+    "skills": [
+      {
+        "id": "B7",
+        "tier": "basic",
+        "description": "Follow organizational security guidelines and policies, incorporating them into the development process.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B11",
+        "tier": "basic",
+        "description": "Understand and implement monitoring and logging tooling/techniques.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B34",
+        "tier": "basic",
+        "description": "Assist in conducting vulnerability assessments and penetration testing under supervision to identify weaknesses in network and system security, with a focus on hands-on learning.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B35",
+        "tier": "basic",
+        "description": "Provide support to senior analysts in investigating incidents, compiling reports, and analyzing basic threat intelligence data. This includes learning to identify and report on potential security threats using real-time monitoring tools.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B36",
+        "tier": "basic",
+        "description": "Develop a strong understanding of essential security tools, including SIEM/SOAR systems, and gain hands-on experience with basic security operations, such as analyzing logs and managing alerts.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B37",
+        "tier": "basic",
+        "description": "Participate in internal training sessions to enhance understanding of cybersecurity best practices.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B38",
+        "tier": "basic",
+        "description": "Written and oral communication skills essential for documenting incidents, reporting to team leaders, and liaising with other departments for coordinated security efforts.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I9",
+        "tier": "intermediate",
+        "description": "Provide leadership, instruction, and guidance to junior staff.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I21",
+        "tier": "intermediate",
+        "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I32",
+        "tier": "intermediate",
+        "description": "Conduct more complex penetration testing and vulnerability assessments independently, while also starting to lead smaller projects or components of larger projects. This includes threat modeling and applying compliance standards like NIST, ISO, or OWASP.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I33",
+        "tier": "intermediate",
+        "description": "Analyze security events, develop relevant SIEM correlation rules or SOAR playbooks, and provide detailed reports to senior management or the CISO. This includes tracking Advanced Persistent Threats (APTs) and providing actionable intelligence.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I34",
+        "tier": "intermediate",
+        "description": "Develop and implement proactive security strategies to pre-emptively address potential threats. This includes threat hunting, continuous improvement of security practices, and adaptation to the latest trends in cybersecurity.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I35",
+        "tier": "intermediate",
+        "description": "Deepen expertise in a particular area of cybersecurity, such as network security, application security, or threat intelligence. Engage in continuous learning to stay updated with the latest tools, techniques, and standards in the field.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A1",
+        "tier": "advanced",
+        "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A4",
+        "tier": "advanced",
+        "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A5",
+        "tier": "advanced",
+        "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A9",
+        "tier": "advanced",
+        "description": "Conduct root cause analysis and develop remediation plans for security incidents.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A12",
+        "tier": "advanced",
+        "description": "Communicate security risks and strategies to stakeholders and executive leadership.",
+        "status": "not-started",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "family": "Security Administrator",
+    "skills": [
+      {
+        "id": "B1",
+        "tier": "basic",
+        "description": "Understand the basics of security requirements and fundamental risk management principles.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B4",
+        "tier": "basic",
+        "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B7",
+        "tier": "basic",
+        "description": "Follow organizational security guidelines and policies, incorporating them into the development process.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B8",
+        "tier": "basic",
+        "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC).",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B11",
+        "tier": "basic",
+        "description": "Understand and implement monitoring and logging tooling/techniques.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "B43",
+        "tier": "basic",
+        "description": "Participate in initial incident response activities, learning to document incidents and contribute to investigations under supervision.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I3",
+        "tier": "intermediate",
+        "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I10",
+        "tier": "intermediate",
+        "description": "Perform security audits and assessments based on job function and role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I21",
+        "tier": "intermediate",
+        "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I40",
+        "tier": "intermediate",
+        "description": "Focus on implementing secure network designs and configurations as per established designs, with a deepening understanding of complex firewall setups and advanced network segmentation.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I41",
+        "tier": "intermediate",
+        "description": "Manage incident response operations, including performing detailed forensic analysis when needed. Work on refining incident response plans and playbooks, collaborating closely with senior security professionals.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "I42",
+        "tier": "intermediate",
+        "description": "Assist in the creation and maintenance of comprehensive security policies and procedures, collaborating with senior security teams to ensure these policies are up-to-date and effective.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A1",
+        "tier": "advanced",
+        "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A2",
+        "tier": "advanced",
+        "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A4",
+        "tier": "advanced",
+        "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A5",
+        "tier": "advanced",
+        "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A9",
+        "tier": "advanced",
+        "description": "Conduct root cause analysis and develop remediation plans for security incidents.",
+        "status": "not-started",
+        "note": ""
+      },
+      {
+        "id": "A12",
+        "tier": "advanced",
+        "description": "Communicate security risks and strategies to stakeholders and executive leadership.",
+        "status": "not-started",
+        "note": ""
+      }
+    ]
+  }
+]
