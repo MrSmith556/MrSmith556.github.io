@@ -7,7 +7,7 @@
         "tier": "basic",
         "description": "Understand the basics of security requirements and fundamental risk management principles.",
         "status": "not-started",
-        "note": ""
+        "note": "This is a test note!"
       },
       {
         "id": "B7",
